@@ -4,9 +4,10 @@
 <meta charset="UTF-8" />
 <title>Desafio Hacker</title>
 
-<link rel="stylesheet" href="/css/bootstrap.min.css" media="all" />
-<link rel="stylesheet" href="/css/bootstrap-responsive.min.css" media="all" />
-<link rel="stylesheet" href="/css/cyborg.css" media="all" />
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css" media="all" />
+<link rel="stylesheet" href="/assets/css/bootstrap-responsive.min.css" media="all" />
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/assets/css/cyborg.css" media="all" />
 
 </head>
 <body>
@@ -29,10 +30,10 @@ if ( $linux ) { ?>
 <p>Ya tenés GNU/Linux. Pasas al <a href="/3c9cf02df35cab5e0fdcf581a4b701cc.php">siguiente nivel</a></p>
 
 <p>Y acordate, cada vez que decis Linux (en vez de GNU/Linux) <strong>Stallman mata un gatito</strong>.</p>
-<p><img src="/img/rms.png" title='"Deci GNU/Linux ta que te pario" dijo Stallman y le arojo un gato a un asistente' /></p>
+<p><img src="/assets/img/rms.png" title='"Deci GNU/Linux ta que te pario" dijo Stallman y le arojo un gato a un asistente' /></p>
 
 <?php } else { ?>
-<p><img src="/img/stallman.jpg" border="0" /></p>
+<p><img src="/assets/img/stallman.jpg" border="0" /></p>
 <p>La pantalla lentamente se ilumina, del desorden de fosforo verde surge una imagen, es Neo Stallman el primer hacker.</p>
 
 <p><strong>- ¿Vienes aqui en busca de una mision usando Window$?</strong></p>
