@@ -3,8 +3,12 @@ html,body,content { background: black; color: green; font-family: monospace; }
 a, a:active, a:visited, a:link { color:#0e0; }
 a:hover { color:#0f0; text-decoration:underline }
 
-h1,h2 { color:#0f0 }
 
-.alert { background: transparent; border: 1px solid #0e0; color: green; text-shadow: 0 1px 0 rgba(0,230,0,0.5)!important;}
+.alert { background: transparent; border: 1px solid #0e0; color: green; text-shadow: 0 1px 0 rgba(0,230,0,0.2)!important; }
 
-strong { text-shadow: 0 1px 0 rgba(0,230,0,0.5)!important; }
+h1, h2, h3, strong { color: #0e0; font-weight: normal; }
+
+textarea { min-height:148px; width:100%; }
+textarea, code { background-color: #111; border: 1px solid #090; color: #0f0;}
+
+p { margin: 4px 0; padding:0; }

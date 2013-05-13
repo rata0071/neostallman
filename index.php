@@ -13,7 +13,7 @@
 <div class="container">
 <content>
 <h1>Desafío Hacker</h1>
-<h2>Nivel 1 - Tenés GNU/Linux?</h2>
+<h2>0 Abuela - ¿Tenés GNU/Linux?</h2>
 
 <div class="row-fluid">
 
@@ -45,8 +45,12 @@ if ( $linux ) { ?>
 </div>
 <div class="span6 alert alert-block">
 Algunas cosas podes hacer en Window$ y talvez estes acostumbrado, pero a la larga, un verdadero hacker necesita GNU/Linux.<br />
-Por eso para superar este desafio tenés que instalar alguna distribución de GNU/Linux, por ejemplo <a href="http://www.linuxmint.com/">Mint</a>, <a href="http://www.ubuntu.com/">Ubuntu</a> o <a href="http://www.debian.org/">Debian</a>.<br />
-No tengas miedo de probar varias distribuciones diferentes.<br />
+Por eso para superar este desafio tenés que instalar alguna distribución de GNU/Linux, por ejemplo 
+<a href="http://www.gnewsense.org/" title="Basada en Debian y Ubuntu, con el patrocinio de la FSF.">GnewSense</a>, 
+<a href="http://trisquel.info/" title="Basada en Ubuntu.">Trisquel</a>, 
+<a href="http://parabolagnulinux.org/" title="Basada en Arch.">Parabola</a> o 
+<a href="http://proyecto.ututo.net/cmsd/" title="Basada en Gentoo.">Ututo</a>.<br />
+No tengas miedo de probar varias <a hred="http://www.gnu.org/distros/free-distros.html">distrinuciones libres</a>.<br />
 <strong>Nota: algunas computadoras tienen doble booteo, osea pueden iniciar con Window$ o GNU/Linux, INVESTIGA!!!</strong>
 </div>
 
